@@ -2,3 +2,15 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+:root {
+  --header-footer-text-color: #DB00FF;
+  --button-color: #FF0070;
+  --button-border-color: rgba(255, 0, 112, 0.4);
+  --section-title-text-color: #FF0070;
+  --section-subtitle-text-color: #000028;
+  --description-text-color: #F1B2CE;
+  --text-background-color: #FF0070;
+  --shadow-color: #FF0070;
+  --link-background-color: #FF0070;
+  --decor-color: #FF0070;
+}
