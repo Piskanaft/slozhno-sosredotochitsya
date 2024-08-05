@@ -3,6 +3,7 @@
   и их переопределение под различные устройства
 */
 :root {
+  --background-color: #000028;
   --header-footer-text-color: #DB00FF;
   --button-color: #FF0070;
   --button-border-color: rgba(255, 0, 112, 0.4);
